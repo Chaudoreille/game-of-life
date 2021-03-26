@@ -1,0 +1,23 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "description": "Conway's Game of Life",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  },
+  "scripts": {
+    "test": "mocha --reporter list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Chaudoreille/game-of-life.git"
+  },
+  "author": "Arthur Chaudoreille",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chaudoreille/game-of-life/issues"
+  },
+  "homepage": "https://github.com/Chaudoreille/game-of-life#readme"
+}
